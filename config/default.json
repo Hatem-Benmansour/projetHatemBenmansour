@@ -1,0 +1,5 @@
+{
+  "db":"mongodb+srv://hatembenmansour12:0000@cluster0.rj1lm3m.mongodb.net/auth?retryWrites=true&w=majority",
+  "secret":"shhh",
+  "PORT":"5000"
+}
